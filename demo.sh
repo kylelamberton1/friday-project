@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "enter a ggggrade"
+echo "enter a grade"
 read grade
 
 case $grade in
