@@ -30,4 +30,4 @@ jobs:
       - name: Run demo.sh
         run: |
           sudo chmod +x demo.sh test.sh
-          ./hello.sh "joe bloggs"
+          ./demo.sh "joe bloggs"
